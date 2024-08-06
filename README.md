@@ -1,2 +1,2 @@
 # IBM-Capstone
-All documents included in Task 1
+All documents included in Capstone Project file
